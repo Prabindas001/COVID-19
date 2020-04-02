@@ -1,351 +1,234 @@
-Id,Province_State,Country_Region,Date,ConfirmedCases,Fatalities
-1,Kerala,India,2020-01-30,1,0
-2,Kerala,India,2020-01-31,1,0
-3,Kerala,India,2020-02-01,2,0
-4,Kerala,India,2020-02-02,3,0
-5,Kerala,India,2020-02-03,3,0
-6,Kerala,India,2020-02-04,3,0
-7,Kerala,India,2020-02-05,3,0
-8,Kerala,India,2020-02-06,3,0
-9,Kerala,India,2020-02-07,3,0
-10,Kerala,India,2020-02-08,3,0
-11,Kerala,India,2020-02-09,3,0
-12,Kerala,India,2020-02-10,3,0
-13,Kerala,India,2020-02-11,3,0
-14,Kerala,India,2020-02-12,3,0
-15,Kerala,India,2020-02-13,3,0
-16,Kerala,India,2020-02-14,3,0
-17,Kerala,India,2020-02-15,3,0
-18,Kerala,India,2020-02-16,3,0
-19,Kerala,India,2020-02-17,3,0
-20,Kerala,India,2020-02-18,3,0
-21,Kerala,India,2020-02-19,3,0
-22,Kerala,India,2020-02-20,3,0
-23,Kerala,India,2020-02-21,3,0
-24,Kerala,India,2020-02-22,3,0
-25,Kerala,India,2020-02-23,3,0
-26,Kerala,India,2020-02-24,3,0
-27,Kerala,India,2020-02-25,3,0
-28,Kerala,India,2020-02-26,3,0
-29,Kerala,India,2020-02-27,3,0
-30,Kerala,India,2020-02-28,3,0
-31,Kerala,India,2020-02-29,3,0
-32,Kerala,India,2020-03-01,3,0
-33,Delhi,India,2020-03-02,1,0
-34,Kerala,India,2020-03-02,3,0
-35,Telengana,India,2020-03-02,1,0
-36,Delhi,India,2020-03-03,1,0
-37,Kerala,India,2020-03-03,3,0
-38,Rajasthan,India,2020-03-03,0,0
-39,Telengana,India,2020-03-03,1,0
-40,Delhi,India,2020-03-04,1,0
-41,Haryana,India,2020-03-04,14,0
-42,Kerala,India,2020-03-04,3,0
-43,Rajasthan,India,2020-03-04,1,0
-44,Telengana,India,2020-03-04,1,0
-45,Uttar Pradesh,India,2020-03-04,6,0
-46,Delhi,India,2020-03-05,2,0
-47,Haryana,India,2020-03-05,14,0
-48,Kerala,India,2020-03-05,3,0
-49,Rajasthan,India,2020-03-05,1,0
-50,Telengana,India,2020-03-05,1,0
-51,Uttar Pradesh,India,2020-03-05,7,0
-52,Delhi,India,2020-03-06,3,0
-53,Haryana,India,2020-03-06,14,0
-54,Kerala,India,2020-03-06,3,0
-55,Rajasthan,India,2020-03-06,1,0
-56,Telengana,India,2020-03-06,1,0
-57,Uttar Pradesh,India,2020-03-06,7,0
-58,Delhi,India,2020-03-07,3,0
-59,Haryana,India,2020-03-07,14,0
-60,Kerala,India,2020-03-07,3,0
-61,Rajasthan,India,2020-03-07,1,0
-62,Tamil Nadu,India,2020-03-07,1,0
-63,Telengana,India,2020-03-07,1,0
-64,Union Territory of Ladakh,India,2020-03-07,2,0
-65,Uttar Pradesh,India,2020-03-07,7,0
-66,Delhi,India,2020-03-08,3,0
-67,Haryana,India,2020-03-08,14,0
-68,Kerala,India,2020-03-08,8,0
-69,Rajasthan,India,2020-03-08,1,0
-70,Tamil Nadu,India,2020-03-08,1,0
-71,Telengana,India,2020-03-08,1,0
-72,Union Territory of Ladakh,India,2020-03-08,2,0
-73,Uttar Pradesh,India,2020-03-08,7,0
-74,Delhi,India,2020-03-09,4,0
-75,Haryana,India,2020-03-09,14,0
-76,Karnataka,India,2020-03-09,1,0
-77,Kerala,India,2020-03-09,9,0
-78,Maharashtra,India,2020-03-09,2,0
-79,Punjab,India,2020-03-09,1,0
-80,Rajasthan,India,2020-03-09,1,0
-81,Tamil Nadu,India,2020-03-09,1,0
-82,Telengana,India,2020-03-09,1,0
-83,Union Territory of Jammu and Kashmir,India,2020-03-09,1,0
-84,Union Territory of Ladakh,India,2020-03-09,2,0
-85,Uttar Pradesh,India,2020-03-09,7,0
-86,Delhi,India,2020-03-10,4,0
-87,Haryana,India,2020-03-10,14,0
-88,Karnataka,India,2020-03-10,4,0
-89,Kerala,India,2020-03-10,15,0
-90,Maharashtra,India,2020-03-10,5,0
-91,Punjab,India,2020-03-10,1,0
-92,Rajasthan,India,2020-03-10,1,0
-93,Tamil Nadu,India,2020-03-10,1,0
-94,Telengana,India,2020-03-10,1,0
-95,Union Territory of Jammu and Kashmir,India,2020-03-10,1,0
-96,Union Territory of Ladakh,India,2020-03-10,2,0
-97,Uttar Pradesh,India,2020-03-10,7,0
-98,Delhi,India,2020-03-11,5,0
-99,Haryana,India,2020-03-11,14,0
-100,Karnataka,India,2020-03-11,4,0
-101,Kerala,India,2020-03-11,17,0
-102,Maharashtra,India,2020-03-11,10,0
-103,Punjab,India,2020-03-11,1,0
-104,Rajasthan,India,2020-03-11,3,0
-105,Tamil Nadu,India,2020-03-11,1,0
-106,Telengana,India,2020-03-11,1,0
-107,Union Territory of Jammu and Kashmir,India,2020-03-11,1,0
-108,Union Territory of Ladakh,India,2020-03-11,2,0
-109,Uttar Pradesh,India,2020-03-11,9,0
-110,Andhra Pradesh,India,2020-03-12,1,0
-111,Delhi,India,2020-03-12,6,0
-112,Haryana,India,2020-03-12,14,0
-113,Karnataka,India,2020-03-12,4,1
-114,Kerala,India,2020-03-12,17,0
-115,Maharashtra,India,2020-03-12,11,0
-116,Punjab,India,2020-03-12,1,0
-117,Rajasthan,India,2020-03-12,3,0
-118,Tamil Nadu,India,2020-03-12,1,0
-119,Telengana,India,2020-03-12,1,0
-120,Union Territory of Jammu and Kashmir,India,2020-03-12,1,0
-121,Union Territory of Ladakh,India,2020-03-12,3,0
-122,Uttar Pradesh,India,2020-03-12,11,0
-123,Andhra Pradesh,India,2020-03-13,1,0
-124,Delhi,India,2020-03-13,6,0
-125,Haryana,India,2020-03-13,14,0
-126,Karnataka,India,2020-03-13,5,1
-127,Kerala,India,2020-03-13,17,0
-128,Maharashtra,India,2020-03-13,11,0
-129,Punjab,India,2020-03-13,1,0
-130,Rajasthan,India,2020-03-13,3,0
-131,Tamil Nadu,India,2020-03-13,1,0
-132,Telengana,India,2020-03-13,1,0
-133,Union Territory of Jammu and Kashmir,India,2020-03-13,1,0
-134,Union Territory of Ladakh,India,2020-03-13,3,0
-135,Uttar Pradesh,India,2020-03-13,11,0
-136,Andhra Pradesh,India,2020-03-14,1,0
-137,Delhi,India,2020-03-14,7,1
-138,Haryana,India,2020-03-14,14,0
-139,Karnataka,India,2020-03-14,6,1
-140,Kerala,India,2020-03-14,19,0
-141,Maharashtra,India,2020-03-14,14,0
-142,Punjab,India,2020-03-14,1,0
-143,Rajasthan,India,2020-03-14,3,0
-144,Tamil Nadu,India,2020-03-14,1,0
-145,Telengana,India,2020-03-14,1,0
-146,Union Territory of Jammu and Kashmir,India,2020-03-14,2,0
-147,Union Territory of Ladakh,India,2020-03-14,3,0
-148,Uttar Pradesh,India,2020-03-14,12,0
-149,Andhra Pradesh,India,2020-03-15,1,0
-150,Delhi,India,2020-03-15,7,1
-151,Haryana,India,2020-03-15,14,0
-152,Karnataka,India,2020-03-15,6,1
-153,Kerala,India,2020-03-15,23,0
-154,Maharashtra,India,2020-03-15,32,0
-155,Punjab,India,2020-03-15,1,0
-156,Rajasthan,India,2020-03-15,4,0
-157,Tamil Nadu,India,2020-03-15,1,0
-158,Telengana,India,2020-03-15,3,0
-159,Union Territory of Jammu and Kashmir,India,2020-03-15,2,0
-160,Union Territory of Ladakh,India,2020-03-15,3,0
-161,Uttar Pradesh,India,2020-03-15,13,0
-162,Uttarakhand,India,2020-03-15,1,0
-163,Andhra Pradesh,India,2020-03-16,1,0
-164,Delhi,India,2020-03-16,7,1
-165,Haryana,India,2020-03-16,14,0
-166,Karnataka,India,2020-03-16,6,1
-167,Kerala,India,2020-03-16,23,0
-168,Maharashtra,India,2020-03-16,32,0
-169,Odisha,India,2020-03-16,1,0
-170,Punjab,India,2020-03-16,1,0
-171,Rajasthan,India,2020-03-16,4,0
-172,Tamil Nadu,India,2020-03-16,1,0
-173,Telengana,India,2020-03-16,3,0
-174,Union Territory of Jammu and Kashmir,India,2020-03-16,3,0
-175,Union Territory of Ladakh,India,2020-03-16,4,0
-176,Uttar Pradesh,India,2020-03-16,13,0
-177,Uttarakhand,India,2020-03-16,1,0
-178,Andhra Pradesh,India,2020-03-17,1,0
-179,Delhi,India,2020-03-17,8,1
-180,Haryana,India,2020-03-17,15,0
-181,Karnataka,India,2020-03-17,11,1
-182,Kerala,India,2020-03-17,26,0
-183,Maharashtra,India,2020-03-17,39,1
-184,Odisha,India,2020-03-17,1,0
-185,Punjab,India,2020-03-17,1,0
-186,Rajasthan,India,2020-03-17,4,0
-187,Tamil Nadu,India,2020-03-17,1,0
-188,Telengana,India,2020-03-17,5,0
-189,Union Territory of Jammu and Kashmir,India,2020-03-17,3,0
-190,Union Territory of Ladakh,India,2020-03-17,6,0
-191,Uttar Pradesh,India,2020-03-17,15,0
-192,Uttarakhand,India,2020-03-17,1,0
-193,Andhra Pradesh,India,2020-03-18,1,0
-194,Delhi,India,2020-03-18,10,1
-195,Haryana,India,2020-03-18,17,0
-196,Karnataka,India,2020-03-18,11,1
-197,Kerala,India,2020-03-18,27,0
-198,Maharashtra,India,2020-03-18,42,1
-199,Odisha,India,2020-03-18,1,0
-200,Puducherry,India,2020-03-18,1,0
-201,Punjab,India,2020-03-18,1,0
-202,Rajasthan,India,2020-03-18,4,0
-203,Tamil Nadu,India,2020-03-18,1,0
-204,Telengana,India,2020-03-18,6,0
-205,Union Territory of Jammu and Kashmir,India,2020-03-18,3,0
-206,Union Territory of Ladakh,India,2020-03-18,8,0
-207,Uttar Pradesh,India,2020-03-18,16,0
-208,Uttarakhand,India,2020-03-18,1,0
-209,West Bengal,India,2020-03-18,1,0
-210,Andhra Pradesh,India,2020-03-19,2,0
-211,Chhattisgarh,India,2020-03-19,1,0
-212,Delhi,India,2020-03-19,12,1
-213,Haryana,India,2020-03-19,17,0
-214,Karnataka,India,2020-03-19,14,1
-215,Kerala,India,2020-03-19,27,0
-216,Maharashtra,India,2020-03-19,47,1
-217,Odisha,India,2020-03-19,1,0
-218,Puducherry,India,2020-03-19,1,0
-219,Punjab,India,2020-03-19,2,1
-220,Rajasthan,India,2020-03-19,7,0
-221,Tamil Nadu,India,2020-03-19,2,0
-222,Telengana,India,2020-03-19,6,0
-223,Union Territory of Chandigarh,India,2020-03-19,1,0
-224,Union Territory of Jammu and Kashmir,India,2020-03-19,4,0
-225,Union Territory of Ladakh,India,2020-03-19,8,0
-226,Uttar Pradesh,India,2020-03-19,19,0
-227,Uttarakhand,India,2020-03-19,1,0
-228,West Bengal,India,2020-03-19,1,0
-229,Andhra Pradesh,India,2020-03-20,2,0
-230,Chhattisgarh,India,2020-03-20,1,0
-231,Delhi,India,2020-03-20,17,1
-232,Gujarat,India,2020-03-20,2,0
-233,Haryana,India,2020-03-20,17,0
-234,Karnataka,India,2020-03-20,15,1
-235,Kerala,India,2020-03-20,28,0
-236,Maharashtra,India,2020-03-20,47,1
-237,Odisha,India,2020-03-20,1,0
-238,Puducherry,India,2020-03-20,1,0
-239,Punjab,India,2020-03-20,2,1
-240,Rajasthan,India,2020-03-20,7,0
-241,Tamil Nadu,India,2020-03-20,3,0
-242,Telengana,India,2020-03-20,16,0
-243,Union Territory of Chandigarh,India,2020-03-20,1,0
-244,Union Territory of Jammu and Kashmir,India,2020-03-20,4,0
-245,Union Territory of Ladakh,India,2020-03-20,10,0
-246,Uttar Pradesh,India,2020-03-20,19,0
-247,Uttarakhand,India,2020-03-20,1,0
-248,West Bengal,India,2020-03-20,1,0
-249,Andhra Pradesh,India,2020-03-21,3,0
-250,Chandigarh,India,2020-03-21,1,0
-251,Chhattisgarh,India,2020-03-21,1,0
-252,Delhi,India,2020-03-21,26,1
-253,Gujarat,India,2020-03-21,7,0
-254,Haryana,India,2020-03-21,17,0
-255,Himachal Pradesh,India,2020-03-21,2,0
-256,Jammu and Kashmir,India,2020-03-21,4,0
-257,Karnataka,India,2020-03-21,15,1
-258,Kerala,India,2020-03-21,40,0
-259,Ladakh,India,2020-03-21,13,0
-260,Madhya Pradesh,India,2020-03-21,4,0
-261,Maharashtra,India,2020-03-21,63,1
-262,Odisha,India,2020-03-21,2,0
-263,Puducherry,India,2020-03-21,1,0
-264,Punjab,India,2020-03-21,13,1
-265,Rajasthan,India,2020-03-21,17,0
-266,Tamil Nadu,India,2020-03-21,3,0
-267,Telengana,India,2020-03-21,21,0
-268,Uttar Pradesh,India,2020-03-21,24,0
-269,Uttarakhand,India,2020-03-21,3,0
-270,West Bengal,India,2020-03-21,3,0
-271,Andhra Pradesh,India,2020-03-22,5,0
-272,Bihar,India,2020-03-22,2,1
-273,Chandigarh,India,2020-03-22,5,0
-274,Chhattisgarh,India,2020-03-22,1,0
-275,Delhi,India,2020-03-22,29,1
-276,Gujarat,India,2020-03-22,18,1
-277,Haryana,India,2020-03-22,21,0
-278,Himachal Pradesh,India,2020-03-22,2,0
-279,Jammu and Kashmir,India,2020-03-22,4,0
-280,Karnataka,India,2020-03-22,26,1
-281,Kerala,India,2020-03-22,52,0
-282,Ladakh,India,2020-03-22,13,0
-283,Madhya Pradesh,India,2020-03-22,4,0
-284,Maharashtra,India,2020-03-22,67,2
-285,Odisha,India,2020-03-22,2,0
-286,Puducherry,India,2020-03-22,1,0
-287,Punjab,India,2020-03-22,21,1
-288,Rajasthan,India,2020-03-22,24,0
-289,Tamil Nadu,India,2020-03-22,7,0
-290,Telengana,India,2020-03-22,22,0
-291,Uttar Pradesh,India,2020-03-22,27,0
-292,Uttarakhand,India,2020-03-22,3,0
-293,West Bengal,India,2020-03-22,4,0
-294,Andhra Pradesh,India,2020-03-23,7,0
-295,Bihar,India,2020-03-23,2,1
-296,Chandigarh,India,2020-03-23,6,0
-297,Chhattisgarh,India,2020-03-23,1,0
-298,Delhi,India,2020-03-23,29,1
-299,Gujarat,India,2020-03-23,29,1
-300,Haryana,India,2020-03-23,26,0
-301,Himachal Pradesh,India,2020-03-23,2,0
-302,Jammu and Kashmir,India,2020-03-23,4,0
-303,Karnataka,India,2020-03-23,33,1
-304,Kerala,India,2020-03-23,67,0
-305,Ladakh,India,2020-03-23,13,0
-306,Madhya Pradesh,India,2020-03-23,6,0
-307,Maharashtra,India,2020-03-23,74,2
-308,Odisha,India,2020-03-23,2,0
-309,Puducherry,India,2020-03-23,1,0
-310,Punjab,India,2020-03-23,21,1
-311,Rajasthan,India,2020-03-23,28,0
-312,Tamil Nadu,India,2020-03-23,9,0
-313,Telengana,India,2020-03-23,32,0
-314,Uttar Pradesh,India,2020-03-23,31,0
-315,Uttarakhand,India,2020-03-23,3,0
-316,West Bengal,India,2020-03-23,7,1
-317,Andhra Pradesh,India,2020-03-24,8,0
-318,Bihar,India,2020-03-24,3,1
-319,Chandigarh,India,2020-03-24,7,0
-320,Chhattisgarh,India,2020-03-24,1,0
-321,Delhi,India,2020-03-24,30,2
-322,Gujarat,India,2020-03-24,33,1
-323,Haryana,India,2020-03-24,28,0
-324,Himachal Pradesh,India,2020-03-24,3,1
-325,Jammu and Kashmir,India,2020-03-24,4,0
-326,Karnataka,India,2020-03-24,37,1
-327,Kerala,India,2020-03-24,95,0
-328,Ladakh,India,2020-03-24,13,0
-329,Madhya Pradesh,India,2020-03-24,7,0
-330,Maharashtra,India,2020-03-24,89,2
-331,Manipur,India,2020-03-24,1,0
-332,Odisha,India,2020-03-24,2,0
-333,Puducherry,India,2020-03-24,1,0
-334,Punjab,India,2020-03-24,29,1
-335,Rajasthan,India,2020-03-24,32,0
-336,Tamil Nadu,India,2020-03-24,15,0
-337,Telengana,India,2020-03-24,35,0
-338,Uttar Pradesh,India,2020-03-24,33,0
-339,Uttarakhand,India,2020-03-24,4,0
-340,West Bengal,India,2020-03-24,9,1
-341,Andhra Pradesh,India,2020-03-25,9,0
-342,Bihar,India,2020-03-25,4,1
-343,Chandigarh,India,2020-03-25,7,0
-344,Chhattisgarh,India,2020-03-25,1,0
-345,Delhi,India,2020-03-25,31,1
-346,Gujarat,India,2020-03-25,38,1
-347,Haryana,India,2020-03-25,28,0
-348,Himachal Pradesh,India,2020-03-25,3,1
-349,Jammu and Kashmir,India,2020-03-25,7,0
-350,Karnataka,India,2020-03-25,41,1
+ForecastId,Province_State,Country_Region,Date,,
+1,Kerala,India,2020-03-25,109,0
+2,Ladakh,India,2020-03-25,13,0
+3,Madhya Pradesh,India,2020-03-25,14,0
+4,Maharashtra,India,2020-03-25,128,3
+5,Manipur,India,2020-03-25,1,0
+6,Mizoram,India,2020-03-25,1,0
+7,Odisha,India,2020-03-25,2,0
+8,Puducherry,India,2020-03-25,1,0
+9,Punjab,India,2020-03-25,29,1
+10,Rajasthan,India,2020-03-25,36,0
+11,Tamil Nadu,India,2020-03-25,18,0
+12,Telengana,India,2020-03-25,35,0
+13,Uttar Pradesh,India,2020-03-25,37,0
+14,Uttarakhand,India,2020-03-25,4,0
+15,West Bengal,India,2020-03-25,9,1
+16,Andaman and Nicobar Islands,India,2020-03-26,1,0
+17,Andhra Pradesh,India,2020-03-26,11,0
+18,Bihar,India,2020-03-26,6,1
+19,Chandigarh,India,2020-03-26,7,0
+20,Chhattisgarh,India,2020-03-26,6,0
+21,Delhi,India,2020-03-26,36,1
+22,Goa,India,2020-03-26,3,0
+23,Gujarat,India,2020-03-26,43,3
+24,Haryana,India,2020-03-26,30,0
+25,Himachal Pradesh,India,2020-03-26,3,1
+26,Jammu and Kashmir,India,2020-03-26,13,1
+27,Karnataka,India,2020-03-26,55,2
+28,Kerala,India,2020-03-26,118,0
+29,Ladakh,India,2020-03-26,13,0
+30,Madhya Pradesh,India,2020-03-26,20,1
+31,Maharashtra,India,2020-03-26,124,3
+32,Manipur,India,2020-03-26,1,0
+33,Mizoram,India,2020-03-26,1,0
+34,Odisha,India,2020-03-26,2,0
+35,Puducherry,India,2020-03-26,1,0
+36,Punjab,India,2020-03-26,33,1
+37,Rajasthan,India,2020-03-26,41,0
+38,Tamil Nadu,India,2020-03-26,26,1
+39,Telengana,India,2020-03-26,44,0
+40,Uttar Pradesh,India,2020-03-26,41,0
+41,Uttarakhand,India,2020-03-26,5,0
+42,West Bengal,India,2020-03-26,10,1
+43,Andaman and Nicobar Islands,India,2020-03-27,1,0
+44,Andhra Pradesh,India,2020-03-27,12,0
+45,Bihar,India,2020-03-27,6,1
+46,Chandigarh,India,2020-03-27,7,0
+47,Chhattisgarh,India,2020-03-27,6,0
+48,Delhi,India,2020-03-27,36,1
+49,Goa,India,2020-03-27,3,0
+50,Gujarat,India,2020-03-27,43,3
+51,Haryana,India,2020-03-27,30,0
+52,Himachal Pradesh,India,2020-03-27,3,1
+53,Jammu and Kashmir,India,2020-03-27,13,1
+54,Karnataka,India,2020-03-27,55,2
+55,Kerala,India,2020-03-27,137,0
+56,Ladakh,India,2020-03-27,13,0
+57,Madhya Pradesh,India,2020-03-27,20,1
+58,Maharashtra,India,2020-03-27,130,4
+59,Manipur,India,2020-03-27,1,0
+60,Mizoram,India,2020-03-27,1,0
+61,Odisha,India,2020-03-27,2,0
+62,Puducherry,India,2020-03-27,1,0
+63,Punjab,India,2020-03-27,33,1
+64,Rajasthan,India,2020-03-27,41,0
+65,Tamil Nadu,India,2020-03-27,29,1
+66,Telengana,India,2020-03-27,45,0
+67,Uttar Pradesh,India,2020-03-27,41,0
+68,Uttarakhand,India,2020-03-27,5,0
+69,West Bengal,India,2020-03-27,10,1
+70,Andaman and Nicobar Islands,India,2020-03-28,6,0
+71,Andhra Pradesh,India,2020-03-28,14,0
+72,Bihar,India,2020-03-28,9,1
+73,Chandigarh,India,2020-03-28,8,0
+74,Chhattisgarh,India,2020-03-28,6,0
+75,Delhi,India,2020-03-28,39,1
+76,Goa,India,2020-03-28,3,0
+77,Gujarat,India,2020-03-28,45,3
+78,Haryana,India,2020-03-28,33,0
+79,Himachal Pradesh,India,2020-03-28,3,1
+80,Jammu and Kashmir,India,2020-03-28,20,1
+81,Karnataka,India,2020-03-28,55,2
+82,Kerala,India,2020-03-28,176,0
+83,Ladakh,India,2020-03-28,13,0
+84,Madhya Pradesh,India,2020-03-28,30,2
+85,Maharashtra,India,2020-03-28,180,5
+86,Manipur,India,2020-03-28,1,0
+87,Mizoram,India,2020-03-28,1,0
+88,Odisha,India,2020-03-28,3,0
+89,Puducherry,India,2020-03-28,1,0
+90,Punjab,India,2020-03-28,38,1
+91,Rajasthan,India,2020-03-28,54,0
+92,Tamil Nadu,India,2020-03-28,40,1
+93,Telengana,India,2020-03-28,56,0
+94,Uttar Pradesh,India,2020-03-28,55,0
+95,Uttarakhand,India,2020-03-28,5,0
+96,West Bengal,India,2020-03-28,15,1
+97,Andaman and Nicobar Islands,India,2020-03-29,9,0
+98,Andhra Pradesh,India,2020-03-29,14,0
+99,Bihar,India,2020-03-29,9,1
+100,Chandigarh,India,2020-03-29,8,0
+101,Chhattisgarh,India,2020-03-29,6,0
+102,Delhi,India,2020-03-29,39,2
+103,Goa,India,2020-03-29,3,0
+104,Gujarat,India,2020-03-29,53,4
+105,Haryana,India,2020-03-29,33,0
+106,Himachal Pradesh,India,2020-03-29,3,1
+107,Jammu and Kashmir,India,2020-03-29,31,1
+108,Karnataka,India,2020-03-29,76,3
+109,Kerala,India,2020-03-29,182,1
+110,Ladakh,India,2020-03-29,13,0
+111,Madhya Pradesh,India,2020-03-29,30,2
+112,Maharashtra,India,2020-03-29,186,6
+113,Manipur,India,2020-03-29,1,0
+114,Mizoram,India,2020-03-29,1,0
+115,Odisha,India,2020-03-29,3,0
+116,Puducherry,India,2020-03-29,1,0
+117,Punjab,India,2020-03-29,38,1
+118,Rajasthan,India,2020-03-29,54,0
+119,Tamil Nadu,India,2020-03-29,42,1
+120,Telengana,India,2020-03-29,66,1
+121,Uttar Pradesh,India,2020-03-29,55,0
+122,Uttarakhand,India,2020-03-29,6,0
+123,West Bengal,India,2020-03-29,18,1
+124,Andaman and Nicobar Islands,India,2020-03-30,9,0
+125,Andhra Pradesh,India,2020-03-30,19,0
+126,Bihar,India,2020-03-30,11,1
+127,Chandigarh,India,2020-03-30,8,0
+128,Chhattisgarh,India,2020-03-30,7,0
+129,Delhi,India,2020-03-30,53,2
+130,Goa,India,2020-03-30,5,0
+131,Gujarat,India,2020-03-30,58,5
+132,Haryana,India,2020-03-30,33,0
+133,Himachal Pradesh,India,2020-03-30,3,1
+134,Jammu and Kashmir,India,2020-03-30,31,2
+135,Karnataka,India,2020-03-30,80,3
+136,Kerala,India,2020-03-30,194,1
+137,Ladakh,India,2020-03-30,13,0
+138,Madhya Pradesh,India,2020-03-30,33,2
+139,Maharashtra,India,2020-03-30,193,8
+140,Manipur,India,2020-03-30,1,0
+141,Mizoram,India,2020-03-30,1,0
+142,Odisha,India,2020-03-30,3,0
+143,Puducherry,India,2020-03-30,1,0
+144,Punjab,India,2020-03-30,38,1
+145,Rajasthan,India,2020-03-30,57,0
+146,Tamil Nadu,India,2020-03-30,50,1
+147,Telengana,India,2020-03-30,69,1
+148,Uttar Pradesh,India,2020-03-30,75,0
+149,Uttarakhand,India,2020-03-30,7,0
+150,West Bengal,India,2020-03-30,19,1
+151,Andaman and Nicobar Islands,India,2020-03-31,10,0
+152,Andhra Pradesh,India,2020-03-31,40,0
+153,Bihar,India,2020-03-31,15,1
+154,Chandigarh,India,2020-03-31,13,0
+155,Chhattisgarh,India,2020-03-31,8,0
+156,Delhi,India,2020-03-31,97,2
+157,Goa,India,2020-03-31,5,0
+158,Gujarat,India,2020-03-31,73,6
+159,Haryana,India,2020-03-31,40,0
+160,Himachal Pradesh,India,2020-03-31,3,1
+161,Jammu and Kashmir,India,2020-03-31,54,2
+162,Karnataka,India,2020-03-31,83,3
+163,Kerala,India,2020-03-31,234,1
+164,Ladakh,India,2020-03-31,13,0
+165,Madhya Pradesh,India,2020-03-31,47,3
+166,Maharashtra,India,2020-03-31,216,9
+167,Manipur,India,2020-03-31,1,0
+168,Mizoram,India,2020-03-31,1,0
+169,Odisha,India,2020-03-31,3,0
+170,Puducherry,India,2020-03-31,1,0
+171,Punjab,India,2020-03-31,41,3
+172,Rajasthan,India,2020-03-31,74,0
+173,Tamil Nadu,India,2020-03-31,74,1
+174,Telengana,India,2020-03-31,79,1
+175,Uttar Pradesh,India,2020-03-31,101,0
+176,Uttarakhand,India,2020-03-31,7,0
+177,West Bengal,India,2020-03-31,26,2
+178,Andaman and Nicobar Islands,India,2020-04-01,10,0
+179,Andhra Pradesh,India,2020-04-01,83,0
+180,Assam,India,2020-04-01,1,0
+181,Bihar,India,2020-04-01,23,1
+182,Chandigarh,India,2020-04-01,16,0
+183,Chhattisgarh,India,2020-04-01,9,0
+184,Delhi,India,2020-04-01,152,2
+185,Goa,India,2020-04-01,5,0
+186,Gujarat,India,2020-04-01,82,6
+187,Haryana,India,2020-04-01,43,0
+188,Himachal Pradesh,India,2020-04-01,3,1
+189,Jammu and Kashmir,India,2020-04-01,62,2
+190,Jharkhand,India,2020-04-01,1,0
+191,Karnataka,India,2020-04-01,101,3
+192,Kerala,India,2020-04-01,241,2
+193,Ladakh,India,2020-04-01,13,0
+194,Madhya Pradesh,India,2020-04-01,66,3
+195,Maharashtra,India,2020-04-01,302,9
+196,Manipur,India,2020-04-01,1,0
+197,Mizoram,India,2020-04-01,1,0
+198,Odisha,India,2020-04-01,4,0
+199,Puducherry,India,2020-04-01,3,0
+200,Punjab,India,2020-04-01,42,3
+201,Rajasthan,India,2020-04-01,93,0
+202,Tamil Nadu,India,2020-04-01,234,1
+203,Telengana,India,2020-04-01,96,3
+204,Uttar Pradesh,India,2020-04-01,103,2
+205,Uttarakhand,India,2020-04-01,7,0
+206,Andaman and Nicobar Islands,India,2020-04-02,10,0
+207,Andhra Pradesh,India,2020-04-02,86,1
+208,Assam,India,2020-04-02,1,0
+209,Bihar,India,2020-04-02,23,1
+210,Chandigarh,India,2020-04-02,16,0
+211,Chhattisgarh,India,2020-04-02,9,0
+212,Delhi,India,2020-04-02,152,2
+213,Goa,India,2020-04-02,5,0
+214,Gujarat,India,2020-04-02,82,6
+215,Haryana,India,2020-04-02,43,0
+216,Himachal Pradesh,India,2020-04-02,3,1
+217,Jammu and Kashmir,India,2020-04-02,62,2
+218,Jharkhand,India,2020-04-02,1,0
+219,Karnataka,India,2020-04-02,110,3
+220,Kerala,India,2020-04-02,265,2
+221,Ladakh,India,2020-04-02,13,0
+222,Madhya Pradesh,India,2020-04-02,99,6
+223,Maharashtra,India,2020-04-02,335,13
+224,Manipur,India,2020-04-02,1,0
+225,Mizoram,India,2020-04-02,1,0
+226,Odisha,India,2020-04-02,4,0
+227,Puducherry,India,2020-04-02,3,0
+228,Punjab,India,2020-04-02,46,4
+229,Rajasthan,India,2020-04-02,108,0
+230,Tamil Nadu,India,2020-04-02,234,1
+231,Telengana,India,2020-04-02,96,3
+232,Uttar Pradesh,India,2020-04-02,113,2
+233,Uttarakhand,India,2020-04-02,7,0
